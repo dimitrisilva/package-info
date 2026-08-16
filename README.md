@@ -45,6 +45,6 @@ The notebook relies on [pandas](https://pandas.pydata.org/), [Matplotlib](https:
 
 ## Running the notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dimitrisilva/package_info/blob/main/package_info.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dimitrisilva/package-info/blob/main/package_info.ipynb)
 
 The notebook can also be run locally in Jupyter, provided the packages above are installed.
